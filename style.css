@@ -16,7 +16,7 @@ body {
     /* 2. BACKGROUND FOTO */
     /* Saya menggunakan placeholder gambar aesthetic hitam putih. 
        Ganti URL di dalam tanda kurung dengan link foto Anda sendiri. */
-    background-image: url('https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=1000&auto=format&fit=crop');
+    background-image: url('https://i.ibb.co.com/0R3TTVvG/IMG-20251123-WA0207.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Agar background tetap diam saat discroll */
