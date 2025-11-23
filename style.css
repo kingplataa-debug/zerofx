@@ -84,7 +84,7 @@ body {
     text-align: center;
     margin-bottom: 50px;
     /* Menambahkan background putih agar tulisan terbaca di atas foto */
-    background-color: #ffffff;
+    background-color: #8D8D8D;
     padding: 40px;
     border-radius: 18px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
@@ -113,7 +113,7 @@ body {
 }
 
 .feature-card {
-    background-color: #ffffff;
+    background-color: #8D8D8D;
     padding: 30px 25px;
     border-radius: 18px;
     text-align: center;
